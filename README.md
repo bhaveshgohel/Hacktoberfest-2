@@ -1,1 +1,1 @@
-# Hacktoberfest
+#Happy Hacktoberfest!
